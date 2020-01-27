@@ -16,3 +16,6 @@ Menu name will find another menu on the same Scene and display it and hide curre
 ![Alt Text](https://i.imgur.com/sOnKAwQ.png)
 
 There is some serious jank everywhere but overall it will allow me to not worry much about menus in the future. I need to add some global settings like screen size and such
+
+
+When in doubt, use the prefabs
